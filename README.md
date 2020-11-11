@@ -5,6 +5,19 @@
 - Motorcyle
 - A camera
 - A sharp knife (Chefs Knife)
+
+# Table Of Contents
+- [Day 1](growthmindset&markdown.md)
+- [Day 2]
+- [Day 3]
+- [Day 4]
+- [Day 5]
+- [Day 6]
+- [Day 7]
+- [Day 8]
+- [Day 9]
+- [Day 10]
+
 ## What Growth Mindset Means To Me
 *Growth Mindset* in my opinion  is the concept of being constanly ready and embracing challenges whether in a paticular task or at life itself. It's accepting the fact that excelling at something as being capable and having the mindset of solving problems as opposed to lack of challenges. 
 
