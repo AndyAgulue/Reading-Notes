@@ -1,6 +1,6 @@
 # Andy Agulue
-* My name is Andy, I'm a cook turning code developer (hopefully), excited to learn a new skill.*
-####Some of my favorite things are :
+* My name is Andy, I'm a cook turning code developer (hopefully), excited to learn a new skill. *
+#### Some of my favorite things are :
 - [Symba](_IMG_0007.JPG)
 - Motorcyle
 - A camera
