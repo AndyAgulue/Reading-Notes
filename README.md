@@ -7,7 +7,7 @@
 - A sharp knife (Chefs Knife)
 
 # Table Of Contents
-- [Day 1](growthmindset&markdown.md)
+- [Day 1](markdown.md)
 - [Day 2]
 - [Day 3]
 - [Day 4]
