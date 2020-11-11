@@ -1,7 +1,7 @@
 # Andy Agulue
  *My name is Andy, I'm a cook turning code developer (hopefully), excited to learn a new skill*. 
 #### Some of my favorite things are :
-- [Symba](⁩url/⁨Users⁩/⁨akachi⁩/⁨Desktop⁩/⁨codecademy projects⁩/codecademy projects⁩/⁨Paint Store Project⁩/⁨index.html⁩/symba)
+- [Symba](/Simbax⁩/⁨Users⁩/⁨akachi⁩/⁨Desktop⁩/⁨codecademy projects⁩/codecademy projects⁩/⁨Paint Store Project⁩/⁨index.html⁩/Symba)
 - Motorcyle
 - A camera
 - A sharp knife (Chefs Knife)
