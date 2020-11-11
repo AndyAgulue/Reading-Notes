@@ -1,4 +1,10 @@
-# .github.io-reading-notes-
+# Andy Agulue
+* My name is Andy, I'm a cook turning code developer (hopefully), excited to learn a new skill.*
+####Some of my favorite things are :
+- [Symba](_IMG_0007.JPG)
+- Motorcyle
+- A camera
+- A sharp knife (Chefs Knife)
 ## What Growth Mindset Means To Me
 *Growth Mindset* in my opinion  is the concept of being constanly ready and embracing challenges whether in a paticular task or at life itself. It's accepting the fact that excelling at something as being capable and having the mindset of solving problems as opposed to lack of challenges. 
 
