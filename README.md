@@ -1,5 +1,5 @@
 # Andy Agulue
- *My name is Andy, I'm a cook turning code developer (hopefully), excited to learn a new skill*. 
+ *My name is Andy, I'm a cook and aspiring code developer, excited to learn a new skill*. 
 #### Some of my favorite things are :
 - [Symba](/Simbax⁩/⁨Users⁩/⁨akachi⁩/⁨Desktop⁩/⁨codecademy projects⁩/codecademy projects⁩/⁨Paint Store Project⁩/⁨index.html⁩/Symba)
 - Motorcyle
