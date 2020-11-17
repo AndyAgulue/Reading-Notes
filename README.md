@@ -10,11 +10,11 @@
 - [Day 1](markdown.md)
 - [Day 2](coderscomputer.md)
 - [Day 3](cloud.md)
-- [Day 4]
-- [Day 5]
-- [Day 6]
-- [Day 7]
-- [Day 8]
+- [Day 4](HTML.md)
+- [Day 5](css.md)
+- [Day 6](javascript.md)
+- [Day 7](operators&loops.md)
+- [Day 8](carrercoaching.md)
 - [Day 9]
 - [Day 10]
 
