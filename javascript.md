@@ -36,3 +36,29 @@
    *Expressions that just assign a value to a variable*; in order for a variable to be useful, it needs to be given a value, this is done using the assignment operator (=). Example "var color = 'green';". the value of the example is now green.
 
    *Expressions that use two or more values to return a single value*; You can perform operations on any number of individual values to determine a single value. Example " var age = 3 * 4;". The value of the age is now 12. This example also uses the assignment operator, so the result of the expression "3 * 4" is stored in the variable called "age".
+
+### Operators
+expressions rely on things called operators: they allow you to program a single value from one or more values.
+
+*Assignment Operators*: Assign a value to a variable.
+
+*Arithmetic Operators*: Perfoms basic math.
+
+*String Operators*: Combine two strings.
+
+*Comaparison Operators*: Combine two values andreturns true or false.
+
+*Logical Operators*: Combine expressions and return true or false.
+
+### Functions
+Functions let you group a series of statements together to perform a specific task that you ca call on when ever you need.
+
+Your code is separated out into groups of instructions, then you call the instructions in the order that they need to be carried out.
+
+The name of the function should be one word, using camelCase if necessary and should preferably describe what the function does.
+
+Functions always have () {} and the parameter lives in the ().
+
+Example: function sayHello()
+
+
