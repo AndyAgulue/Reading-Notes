@@ -8,7 +8,7 @@ Structure is very important in helping to convey your message and also helps mak
 ### HTML
 Hyper Text MarkUp Language describes the structure of pages to your web browser by using *elements*. *Elements* are usually made of two tags: an opening and closing tag. Each element tells the browser something about the information that sits between its opening and closing tags.
 
-**e.g *&alth1&gtthis is a heading&alt/h1&gt*; in the code sample to the left the (h1) is an element, (<></>) are opening and closing tags respectfully which is telling the browser that the message "this is a heading" is the title or the largest text on your page.**
+**e.g *&alt h1 &gt this is a heading &alt / h1 &gt*; in the code sample to the left the (h1) is an element, (<></>) are opening and closing tags respectfully which is telling the browser that the message "this is a heading" is the title or the largest text on your page.**
 
 ### Attributes 
 Provide additional information about the content of an elelment. They appear on the opening tag of the element and are made up of two parts: name and a value, separated by an equal sign.
