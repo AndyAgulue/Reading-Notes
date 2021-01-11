@@ -8,7 +8,7 @@ Structure is very important in helping to convey your message and also helps mak
 ### HTML
 Hyper Text MarkUp Language describes the structure of pages to your web browser by using *elements*. *Elements* are usually made of two tags: an opening and closing tag. Each element tells the browser something about the information that sits between its opening and closing tags.
 
-**e.g *&alt h1 &gt this is a heading &alt / h1 &gt*; in the code sample to the left the (h1) is an element, (<></>) are opening and closing tags respectfully which is telling the browser that the message "this is a heading" is the title or the largest text on your page.**
+**e.g *< h1 > this is a heading < / h1 >*; in the code sample to the left the (h1) is an element, (<></>) are opening and closing tags respectfully which is telling the browser that the message "this is a heading" is the title or the largest text on your page.**
 
 ### Attributes 
 Provide additional information about the content of an elelment. They appear on the opening tag of the element and are made up of two parts: name and a value, separated by an equal sign.
@@ -46,12 +46,12 @@ In the exapmle above you can style CSS can be used to make elements with a class
 ### Block Elements
 Are elements that will always start on a new line in the browser window when used.
 
-e.g \\<h1>,<p>,<ul>,<li>\\
+e.g <h1>,<p>,<ul>,<li>
 
 ### Inline Elements
-Refers to elements that appear to continue on the same line as their neighbouring elements
+Refers to elelments that appera to continue on the same lines as their neighbouring elements.
 
-**e.g <a>,<b>,<em>,<img>**
+**e.g < a >,< b >,< em >,< img >**
 
 ### <div>
 This element allows you to group a set of elements together in one block-level box.
@@ -77,54 +77,3 @@ It is not visible to users but fulfills a number of purposes such as telling sea
  ### Escape Characters
  There are some characters that are used and reserved by HTML code e.g (<>). Therefore, if you want to use these charactes to appear on your page, you need escape characters or escape codes.
  some example are:
-< Less-than sign
-&lt;
-&#60;
-> Greater-than sign
-&gt;
-&amp;
-& Ampersand
-&amp;
-&#38;
-" Quotation mark
-&quot;
-&#34;
-¢ Cent sign
-&cent;
-&#162;
-£ Pound sign
-&pound;
-&#163;
-¥ Yen sign
-&yen;
-&#165;
-Euro sign
-&euro;
-&#8364;
-Copyright symbol
-&copy;
-&#169;
-Registered trademark
-&reg;
-&#174;
-Trademark
-&trade;
-&#8482;
-Left single quote
-&lsquo;
-&#8216;
-Right single quote
-&rsquo;
-&#8217;
-Left double quotes
-&ldquo;
-&#8220;
-Right double quotes
-&rdquo;
-&#8221;
-Multiplication sign
-&times;
-&#215;
-Division sign
-&divide;
-&#247;
