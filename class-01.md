@@ -8,7 +8,7 @@ Structure is very important in helping to convey your message and also helps mak
 ### HTML
 Hyper Text MarkUp Language describes the structure of pages to your web browser by using *elements*. *Elements* are usually made of two tags: an opening and closing tag. Each element tells the browser something about the information that sits between its opening and closing tags.
 
-**e.g *<h1>this is a heading</h1>*; in the code sample to the left the (h1) is an element, (<></>) are opening and closing tags respectfully which is telling the browser that the message "this is a heading" is the title or the largest text on your page.**
+**e.g *&alth1&gtthis is a heading&alt/h1&gt*; in the code sample to the left the (h1) is an element, (<></>) are opening and closing tags respectfully which is telling the browser that the message "this is a heading" is the title or the largest text on your page.**
 
 ### Attributes 
 Provide additional information about the content of an elelment. They appear on the opening tag of the element and are made up of two parts: name and a value, separated by an equal sign.
@@ -23,7 +23,7 @@ Because there have been several types of HTML, each document should begin with a
 ### Comments in HTML
 You can add comments to your page that are not visible to the user. To do this, you add the text between these charcters
 
-**<!-- comments go here -->**
+**e.g<!-- comments go here -->**
 
 This is useful to help you and other developers understand your code easier.
 
@@ -46,10 +46,10 @@ In the exapmle above you can style CSS can be used to make elements with a class
 ### Block Elements
 Are elements that will always start on a new line in the browser window when used.
 
-**e.g <h1>,<p>,<ul>,<li>**
+e.g \\<h1>,<p>,<ul>,<li>\\
 
 ### Inline Elements
-Refers to elements that appear to continue on the same line as their neighbouring elements.
+Refers to elements that appear to continue on the same line as their neighbouring elements
 
 **e.g <a>,<b>,<em>,<img>**
 
