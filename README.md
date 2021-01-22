@@ -14,7 +14,7 @@
 - [Day-4 HTML](code-102/HTML.md)
 - [Day-5 CSS](code-102/css.md)
 - [Day-6 JavaScript](code-102/javascript.md)
-- [Day-7 Operators & Loops](code-102/operators&loops.md)
+- [Day-7 Operators & Loops](code-102/operatorsandloops.md)
 - [Day-8 Career Coaching](code-102/carrercoaching.md)
 
 ### Code 201 Reading Notes
