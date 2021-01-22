@@ -8,7 +8,7 @@
 
 ## Table Of Contents
 ### Code 102 Reading Notes 
-- [Day-1 Markdown](markdown.md)
+- [Day-1 Markdown](code-102/markdown.md)
 - [Day-2 The Coders Computer](coderscomputer.md)
 - [Day-3 The Cloud](cloud.md)
 - [Day-4 HTML](HTML.md)
