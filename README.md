@@ -8,14 +8,14 @@
 
 ## Table Of Contents
 ### Code 102 Reading Notes 
-- [Day-1 Markdown](markdown.md)
-- [Day-2 The Coders Computer](coderscomputer.md)
-- [Day-3 The Cloud](cloud.md)
-- [Day-4 HTML](HTML.md)
-- [Day-5 CSS](css.md)
-- [Day-6 JavaScript](javascript.md)
-- [Day-7 Operators & Loops](operators&loops.md)
-- [Day-8 Career Coaching](carrercoaching.md)
+- [Day-1 Markdown](code-102/markdown.md)
+- [Day-2 The Coders Computer](code-102/coderscomputer.md)
+- [Day-3 The Cloud](code-102/cloud.md)
+- [Day-4 HTML](code-102/HTML.md)
+- [Day-5 CSS](code-102/css.md)
+- [Day-6 JavaScript](code-102/javascript.md)
+- [Day-7 Operators & Loops](code-102/operatorsandLoops.md)
+- [Day-8 Career Coaching](code-102/carrercoaching.md)
 
 ### Code 201 Reading Notes
 - [Class-01](code201/class-01.md)
