@@ -35,21 +35,21 @@
 - [Class-14b](code201/class-14b.md)
 
 ### Code 301 Reading Notes
-- [Class-01]
-- [Class-02]
-- [Class-03]
-- [Class-04]
-- [Class-05]
-- [Class-06]
-- [Class-07]
-- [Class-08]
-- [Class-09]
-- [Class-10]
-- [Class-11]
-- [Class-12]
-- [Class-13]
-- [Class-14]
-- [Class-15]
+- [Class-01](code301/class01.md)
+- [Class-02](code301/class02.md)
+- [Class-03](code301/class03.md)
+- [Class-04](code301/class04.md)
+- [Class-05](code301/class05.md)
+- [Class-06](code301/class06.md)
+- [Class-07](code301/class07.md)
+- [Class-08](code301/class08.md)
+- [Class-09](code301/class09.md)
+- [Class-10](code301/class10.md)
+- [Class-11](code301/class11.md)
+- [Class-12](code301/class12.md)
+- [Class-13](code301/class13.md)
+- [Class-14](code301/class14.md)
+- [Class-15](code301/class15.md)
 
 
 ## Profiles
