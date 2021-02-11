@@ -32,12 +32,8 @@
 - [Class-12](code201/class-12.md)
 - [Class-13](code201/class-13.md)
 - [Class-14](code201/class-14a.md)
-- [Class-15](code201/class-14b.md)
-- [Class-16](code201/class-15.md)
-- [Class-17](code201/class-16.md)
-- [Class-18](code201/class-17.md)
-- [Class-19](code201/class-18.md)
-- [Class-20](code201/class-19.md)
+- [Class-14b](code201/class-14b.md)
+
 
 ## Profiles
 - [Slack](https://app.slack.com/client/T039KG69K/D01E93TG3FF/user_profile/U01F21S5P08)
