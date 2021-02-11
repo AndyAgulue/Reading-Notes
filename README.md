@@ -34,6 +34,23 @@
 - [Class-14](code201/class-14a.md)
 - [Class-14b](code201/class-14b.md)
 
+### Code 301 Reading Notes
+- [Class-01]
+- [Class-02]
+- [Class-03]
+- [Class-04]
+- [Class-05]
+- [Class-06]
+- [Class-07]
+- [Class-08]
+- [Class-09]
+- [Class-10]
+- [Class-11]
+- [Class-12]
+- [Class-13]
+- [Class-14]
+- [Class-15]
+
 
 ## Profiles
 - [Slack](https://app.slack.com/client/T039KG69K/D01E93TG3FF/user_profile/U01F21S5P08)
