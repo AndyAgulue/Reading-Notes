@@ -1,13 +1,7 @@
-# Andy Agulue
- *My name is Andy, I'm a cook and aspiring developer, excited to learn a new skill*. 
-#### Some of my favorite things are :
-- [Symba](/Simbax⁩/⁨Users⁩/⁨akachi⁩/⁨Desktop⁩/⁨codecademy projects⁩/codecademy projects⁩/⁨Paint Store Project⁩/⁨index.html⁩/Symba)
-- Motorcyle
-- A camera
-- A sharp knife (Chefs Knife)
+# Reading Notes
+ *My name is Andy, I'm a sofware developer at the begining of my development journey, these are notes from class.* 
 
-## Table Of Contents
-### Code 102 Reading Notes 
+## Code 102 - Intro to Software Development 
 - [Day-1 Markdown](code-102/markdown.md)
 - [Day-2 The Coders Computer](code-102/coderscomputer.md)
 - [Day-3 The Cloud](code-102/cloud.md)
@@ -17,7 +11,7 @@
 - [Day-7 Operators & Loops](code-102/operatorsandLoops.md)
 - [Day-8 Career Coaching](code-102/carrercoaching.md)
 
-### Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 - [Class-01](code201/class-01.md)
 - [Class-02](code201/class-02.md)
 - [Class-03](code201/class-03.md)
@@ -34,7 +28,7 @@
 - [Class-14](code201/class-14a.md)
 - [Class-14b](code201/class-14b.md)
 
-### Code 301 Reading Notes
+## Code 301 - Intermediate Software Development
 - [Class-01](code301/class-01.md)
 - [Class-02](code301/class-02.md)
 - [Class-03](code301/class-03.md)
@@ -50,6 +44,8 @@
 - [Class-13](code301/class-13.md)
 - [Class-14](code301/class-14.md)
 - [Class-15](code301/class-15.md)
+
+## Code 401 - Advanced Software Development
 
 
 ## Profiles
