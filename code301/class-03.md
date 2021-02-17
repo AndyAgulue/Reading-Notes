@@ -6,9 +6,9 @@ JavaScript templating is an efficient way to render client side pages with JavaS
 
 **Mustache** is a logig-less template syntax. it' apllications are varied and expansive. And it works by expanding tags in a template using values provided in a hash or object.
 
-```Mustache.render(“Hello, {{name}}”, { name: “Andy” });
-// returns: Hello, Andy
-```
+`Mustache.render(“Hello, {``{name}}”, { name: “Andy” })`;
+`// returns: Hello, Andy`
+
 
 ## Flexbox Chris Coyier <https://css-tricks.com/snippets/css/a-guide-to-flexbox/>
 
