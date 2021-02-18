@@ -1,10 +1,4 @@
-<<<<<<< HEAD
 # Responsive Web design - Shay Howe <http://www.learn.shayhowe.com>
-=======
-# Class 01 Notes
-
-## Responsive Web Design - Shay Howe learn.shayhowe.com
->>>>>>> e9047ceaa794c146fd30e866975a72c3720f4bad
 
 The growth of the internet has exceeded anyone's expectations or predictions, the use of mobile devices to access the internet has seen the same exponential growth and is outpacing the general use of the interet itself, curent trends show this usage continuing to rise.
 With the aforementioned growth in mind, web developers are designing websites suitable for all device types and users.This approach to web design is called *Responsive Web Design* or *RWD*.
@@ -12,11 +6,7 @@ With the aforementioned growth in mind, web developers are designing websites su
 Responsive web design is the practice of designing a website to work across a variety of devices and screens, focusing around providing intuitive and gratifying expereince for all users.
 The term was coined and largely developed by Ethan Marcotte.
 
-<<<<<<< HEAD
 ## Responsive vs Adaptive Vs Mobile
-=======
-### Responsive vs Adaptive Vs Mobile
->>>>>>> e9047ceaa794c146fd30e866975a72c3720f4bad
 
 Responsive and adaptive web design are closely related and are often referred to interchangeably. 
 **Responsive** typically means to react quickly and positively to change
@@ -127,17 +117,10 @@ Floated elements remain a part of the flow of the web page. This is distinct fro
 The float property takes four values:
  *Left* and *right* are directional values. *None* is the default and ensures the element will not float.
  *Inherit* will assume the float value from the elements parent element.
-<<<<<<< HEAD
 
   Floats can be versatile from creating entire web layouts to resizing texts, when the image floated next to it reflows to accomodate.
 
 ### Clearing the Float
-=======
-  
-  Floats can be versatile from creating entire web layouts to resizing texts, when the image floated next to it reflows to accomodate.
-
-  ### Clearing the Float
->>>>>>> e9047ceaa794c146fd30e866975a72c3720f4bad
 
   Float's sisterproperty is clear. An element that has the clear property set on it will not move up adjacent to the float like the float desires, but will move itself down past the float.
   The clear property has four valid as well:
@@ -146,11 +129,7 @@ The float property takes four values:
   *None* default clear setting.
   *Inherit* would be the fifth but it isn't supported by Internet Explorer, but still has it's uses.
 
-<<<<<<< HEAD
 ### The Great Collapse
-=======
-  ### The Great Collapse
->>>>>>> e9047ceaa794c146fd30e866975a72c3720f4bad
 
 One of the more bewildering things about working with floats is how they can affect the element that contains them (their “parent” element). If this parent element contained nothing but floated elements, the height of it would literally collapse to nothing. This isn’t always obvious if the parent doesn’t contain any visually noticeable background, but it is important to be aware of.
 
@@ -169,11 +148,3 @@ The **3px Jog** is when text that is up next to a floated element is mysteriousl
 
 In IE 7, the **Bottom Margin Bug** is when if a floated parent has floated children inside it, bottom margin on those children is ignored by the parent. 
 *Quick fix*: using bottom padding on the parent instead.
-<<<<<<< HEAD
-=======
-
-
-
-
-
->>>>>>> e9047ceaa794c146fd30e866975a72c3720f4bad
