@@ -7,4 +7,3 @@ The grid property allows you to style grids column and rows, it is more dynamic 
 
 
 
-
