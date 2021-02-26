@@ -25,8 +25,6 @@ Node can also be used to buld cross-platform desktop apps.
 * **It speaks JSON** Json is one of the most important data exchange format on the web. JavaScrit is ideally suited for consuption by a JavaScript program, meaning that when you’re working with Node, data can flow neatly between layers without the need for reformatting. You can have one syntax from browser to server to database.
 * **JavaScript is ubiquitos** This means that transitioning to Node developing is potentially easier than other server-side languages.
 
-
-
 ### npm
 
 npm is a package manager for javascript. It is also the worlds largest software registery.
