@@ -28,8 +28,3 @@ Node can also be used to buld cross-platform desktop apps.
 ### npm
 
 npm is a package manager for javascript. It is also the worlds largest software registery.
-
-
-
-
-

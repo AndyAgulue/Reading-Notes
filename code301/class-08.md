@@ -4,6 +4,6 @@ SQL (Structured Query Language) is a language that that allows users to access, 
 
 ## Relational Databases
 
-Relational databases represent a collection of  data that is usually in a table form, similar  to a spreadsheet. These tables usually have information related to what the database represents. 
+Relational databases represent a collection of  data that is usually in a table form, similar  to a spreadsheet. These tables usually have information related to what the database represents.
 
 Example: A weather database contains all information related to weather, like temprature, humidity, wind direction, atmospheric pressure and so on.

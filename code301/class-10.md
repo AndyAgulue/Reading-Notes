@@ -7,5 +7,3 @@ The call stack is synchronous so it executes functions in the order that ther ar
 
 Error handling (debugging) is as ubiquitous as reading and writing code to  software developers, hence, being able to read and debug error messages is a very useful skill that gets better the more you use it.
 It is good practice to remove all your debugging tools from the code before a commit/push.
-
-

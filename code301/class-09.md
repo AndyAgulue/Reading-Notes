@@ -19,22 +19,22 @@ This is when functions read external files, resulting in an inpure function beca
                           `return charactersCounter(fileContent);`
                         `}`
 ***Random Nunmber Generators***
- Any function that rellies on a number generator cannot be pure.
+Any function that rellies on a number generator cannot be pure.
 
- ***Observable Side Effects***
- Mutability is discouraged in functional programming, so global objects or parameter passed by refrence should not be modified.
+***Observable Side Effects***
+Mutability is discouraged in functional programming, so global objects or parameter passed by refrence should not be modified.
 
 ### Immutability
 
- When data is immutable, it cannot change it's state after it's been created. Instead, you create new data .
+When data is immutable, it cannot change it's state after it's been created. Instead, you create new data .
 
 ### Refrential transparency
 
- This is when functions consistenly yield the same results for the same input.
+This is when functions consistenly yield the same results for the same input.
 
 ### Functions as first-class entities
 
- Functions that are treated as values and used as data are first-class functions because they:
+Functions that are treated as values and used as data are first-class functions because they:
 
 * refer to the function from constants and variables
 * pass functions as parameeters to other functions
@@ -42,26 +42,20 @@ This is when functions read external files, resulting in an inpure function beca
 
 ### High order functions
 
- Functions that take in one or more functions as arguments or return functions as results
+Functions that take in one or more functions as arguments or return functions as results
 
 ### Filter
 
- The filter method filters datat by an atrribute and expects true or false if the element should or shouldn't be included in the result collection
+The filter method filters datat by an atrribute and expects true or false if the element should or shouldn't be included in the result collection
 
 ### MAP
 
- The map method transforms a coollection by applying a function to all of it's elements and building a new collection from the returned values.
+The map method transforms a coollection by applying a function to all of it's elements and building a new collection from the returned values.
 
 ### Reduce
 
- This is to reduce a function and a collection, and return a value created by combining the items.
+This is to reduce a function and a collection, and return a value created by combining the items.
 
 ## Refactoring
 
- Refacoring is rewriting code for perfomance and readablility. Writing good code from the start is best practice, rather than having to rewrite code.
-
-
-
-
-
-
+Refacoring is rewriting code for perfomance and readablility. Writing good code from the start is best practice, rather than having to rewrite code.
