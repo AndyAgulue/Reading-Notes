@@ -42,7 +42,8 @@
 - [Class-11](code301/class-11.md)
 - [Class-12](code301/class-12.md)
 - [Class-13](code301/class-13.md)
-- [Class-14](code301/class-14.md)
+- [Class-14a](code301/class-14a.md)
+- [Class-14b](code301/class-14b.md)
 - [Class-15](code301/class-15.md)
 
 ## Code 401 - Advanced Software Development
