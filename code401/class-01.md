@@ -12,17 +12,17 @@ The eight primitive data types are: byte, short, int, long, float, double, boole
 =       Simple assignment operator
 
 **Arithmetic Operators**
-+       Additive operator (also used for String concatenation)      
--       Subtraction operator
-+       Multiplication operator
+*+* Additive operator (also used for String concatenation)       
+*-* Subtraction operator
+***       Multiplication operator
 /       Division operator
 %       Remainder operator
 
 **Unary Operators**
 
-+ Unary plus operator; indicates positive value (numbers are positive without this, however)       
+*+*       Unary plus operator; indicates positive value (numbers are positive without this, however)       
         
--       Unary minus operator; negates an expression
+*-*       Unary minus operator; negates an expression
         
 ++      Increment operator; increments a value by 1
         
