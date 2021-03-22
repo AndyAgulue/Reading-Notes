@@ -55,14 +55,20 @@ The eight primitive data types are: byte, short, int, long, float, double, boole
 
 **instanceof**      Compares an object to  a specified type 
                
-### Bitwise and Bit Shift Operators**
+### Bitwise and Bit Shift Operators
 
 **~**       Unary bitwise complement
+
 **<<**      Signed left shift
+
 **>>**      Signed right shift
+
 **>>>**     Unsigned right shift
+
 **&**       Bitwise AND
+
 **^**       Bitwise exclusive OR
+
 **|**       Bitwise inclusive OR
 
 ## Control Flow Statements
