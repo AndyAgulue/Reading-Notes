@@ -1,4 +1,4 @@
-# Android App Fundamentals (Android Official Documentation) [https://developer.android.com/guide/components/fundamentals]
+# Android App Fundamentals [Android Official Documentation](https://developer.android.com/guide/components/fundamentals)
 
 Android apps can be written using Kotlin, Java, and C++ languages. The Android SDK tools compile your code along with any data and resource files into an APK, an Android package, which is an archive file with an .apk suffix. One APK file contains all the contents of an Android app and is the file that Android-powered devices use to install the app.
 
