@@ -82,6 +82,9 @@
 - [Class-33](code401/class-33.md)
 - [Class-34](code401/class-34.md)
 - [Class-35](code401/class-35.md)
+- [Class-36](code401/class-35.md)
+- [Class-37](code401/class-35.md)
+- [Class-38](code401/class-35.md)
 
 ## Profiles
 - [Slack](https://app.slack.com/client/T039KG69K/D01E93TG3FF/user_profile/U01F21S5P08)
